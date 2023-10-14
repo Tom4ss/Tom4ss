@@ -1,11 +1,11 @@
 ### Hi there 👋, I'm Tomás, a Web Developer passionate about the world of web development and always seeking creative solutions. I'm eager to contribute to challenging projects that allow me to expand my skills and continue evolving as a Front-End Engineer.
 
 
-# My web Developer **[Portfolio](https://portfolio-chi-two-21.vercel.app/)**
+# My web Developer **[Portfolio](https://portfolio-seven-liard-50.vercel.app/)**
 
 **Currently, I'm actively seeking new opportunities.**
 
-  ![TOP Linguagens]([https://github-readme-stats.vercel.app/api/top-langs/?username=54M07&layout=compact&theme=dracula](https://portfolio-seven-liard-50.vercel.app/))
+  ![TOP Linguagens]([https://github-readme-stats.vercel.app/api/top-langs/?username=54M07&layout=compact&theme=dracula])
 
 ## Connect With Me
 
