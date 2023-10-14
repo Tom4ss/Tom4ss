@@ -5,7 +5,8 @@
 
 **Currently, I'm actively seeking new opportunities.**
 
-  ![TOP Linguagens]([https://github-readme-stats.vercel.app/api/top-langs/?username=54M07&layout=compact&theme=dracula])
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=54m07&layout=compact&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=54m07&show_icons=true&theme=dracula"/>
 
 ## Connect With Me
 
