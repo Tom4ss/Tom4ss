@@ -3,7 +3,10 @@
 # My personal website **[Portfolio](https://meu-portfolio-eta-navy.vercel.app/)**
 **Currently, I'm actively seeking new opportunities.**
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=54m07&layout=compact&theme=dracula"/>
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=54m07&layout=compact&theme=dracula" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=54m07&show_icons=true&theme=dracula" alt="GitHub Stats" />
+</div>
 
 ## Skills
 
@@ -16,7 +19,13 @@ Here are some of my skills:
   <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
 </span>
 <span>
+  <img src="https://img.shields.io/badge/Sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
+</span>
+<span>
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+</span>
+<span>
+  <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </span>
 <span>
   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
@@ -26,9 +35,6 @@ Here are some of my skills:
 </span>
 <span>
   <img src="https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
-</span>
-<span>
-  <img src="https://img.shields.io/badge/Sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
 </span>
 <span>
   <img src="https://img.shields.io/badge/Gulp-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white" alt="Gulp" />
